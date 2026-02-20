@@ -2,7 +2,7 @@ Summary:	APNG Optimizer
 Summary(pl.UTF-8):	Optymalizator plików APNG
 Name:		apngopt
 Version:	1.4
-Release:	1
+Release:	2
 License:	Zlib (BSD-like)
 Group:		Applications/Graphics
 Source0:	http://downloads.sourceforge.net/apng/%{name}-%{version}-src.zip
